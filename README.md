@@ -20,4 +20,4 @@ A resistor has 4 or 5 color codes generally, of which the last color code indica
 3. After the color codes are entered, the value of the resistor is displayed as well as read out.
 
 Required python modules...
->>> pyttsx3
+1. pyttsx3
